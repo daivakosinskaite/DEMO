@@ -27,6 +27,4 @@
 //         message: "Some text"
 //     }
 // ]
-const messageButton = document.getElementById("messageButton");
-messageButton.addEventListener("click")
 
